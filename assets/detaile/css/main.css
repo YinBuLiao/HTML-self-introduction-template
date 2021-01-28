@@ -21,7 +21,7 @@ body {
     background-attachment: fixed;
     background-position: 50% 50%;
     background-color: #818181;
-    background-image: url('/assets/img/background-2.jpg');
+    background-image: url('https://cdn.jsdelivr.net/gh/YinBuLiao/blog/assets/img/background-2.jpg');
 }
 #rin-bg:after {
     top: 0;
